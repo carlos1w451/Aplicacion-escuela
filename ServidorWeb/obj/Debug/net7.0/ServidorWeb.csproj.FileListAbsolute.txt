@@ -1,0 +1,80 @@
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ServidorWeb.exe
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ServidorWeb.deps.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ServidorWeb.runtimeconfig.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ServidorWeb.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ServidorWeb.pdb
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.AssemblyInfo.cs
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.ServidorWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.ServidorWeb.props
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServidorWeb.props
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServidorWeb.props
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\scopedcss\bundle\ServidorWeb.styles.css
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\refint\ServidorWeb.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.pdb
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.genruntimeconfig.cache
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ref\ServidorWeb.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\Snappier.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\ServidorWeb original\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.CopyComplete
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ServidorWeb.exe
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ServidorWeb.deps.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ServidorWeb.runtimeconfig.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ServidorWeb.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ServidorWeb.pdb
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\Snappier.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.AssemblyInfoInputs.cache
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.AssemblyInfo.cs
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.ServidorWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.ServidorWeb.props
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ServidorWeb.props
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ServidorWeb.props
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\scopedcss\bundle\ServidorWeb.styles.css
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.csproj.CopyComplete
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\refint\ServidorWeb.dll
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.pdb
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ServidorWeb.genruntimeconfig.cache
+C:\Users\Max\Documents\Proyecto Aplicacion, ServidorWeb {Carlos}\ServidorWeb\ServidorWeb\obj\Debug\net7.0\ref\ServidorWeb.dll
